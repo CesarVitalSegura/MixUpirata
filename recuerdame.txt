@@ -1,1 +1,1 @@
-recuerda usaste xampp y phpmyadmin con creacion de base de datos y tablas.
+recuerda usaste xampp y phpmyadmin con creacion de base de datos y tablas. y usaste visual studio 2022 la carpeta va en los proyectos
